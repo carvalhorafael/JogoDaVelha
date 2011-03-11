@@ -1,7 +1,7 @@
 == Jogo da Velha para TV digital Interativa
 === O simples e tradicional Jogo da Velha agora também na sua TV digital interativa.
 
-É possível jogar com um(a) amigo(a) ou contra a TV, com possibilidade de configuração para diferentes níveis de dificuldades.
+É possível jogar com um(a) amigo(a) ou contra a TV. Jogando contra a TV você pode configurar diferentes níveis de dificuldades.
 
 == A aplicação
 Durante o jogo, a lógica e a apresentação dos elementos gráficos são realizadas pelo script Lua. Nas telas de configuração, o sincronismo dos elementos de mídia (áudio e botões) são implementados pelo documento NCL.
@@ -10,6 +10,8 @@ A implementação da lógica em Lua foi desenvolvida com paradigma de orientaç�
 
 == Observações
 É importante ressaltar que essa versão foi desenvolvida no final de 2009 e por isso pode não funcionar corretamente nas versões mais novas do Set-top Box virtual.
+
+Atualizações são mais que bem vindas :-)
 
 == Como contribuir
 Sinta-se a vontade para contribuir, mas antes verifique os tutoriais de colaboração (Collaborating) na seção de {ajuda do GitHub}[http://help.github.com/].
