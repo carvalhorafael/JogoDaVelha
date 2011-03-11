@@ -15,5 +15,5 @@ A implementação da lógica em Lua foi desenvolvida com paradigma de orientaç�
 Sinta-se a vontade para contribuir, mas antes verifique os tutoriais de colaboração (Collaborating) na seção de {ajuda do GitHub}[http://help.github.com/].
 
 == Licença
-Este aplicativo está sob licença {}GNU GPL 2.0}[http://www.gnu.org/licenses/gpl-2.0.txt].
+Este aplicativo está sob licença {GNU GPL 2.0}[http://www.gnu.org/licenses/gpl-2.0.txt].
 
